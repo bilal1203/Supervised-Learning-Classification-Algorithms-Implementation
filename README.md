@@ -11,6 +11,8 @@ In this project, we explore different supervised learning classification algorit
 - RandomForestClassifier
 - BaggingClassifier
 - XGBClassifier
+- LGBMClassifier
+- CatBoostClassifier
 - ExtraTreesClassifier
 
 ### Linear Models:
